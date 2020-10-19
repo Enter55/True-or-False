@@ -1,3 +1,3 @@
 # True-or-False
-Ich lerne leidenschaftlich Programmiersprachen und will meine Erfahrungen auch mit euch Teilen und von euch auch lernen.  Motto: Lernen ist Erfahrung. Alles andere ist einfach nur Information.
-Zurzeit lerne ich intensiv C#, aber neben bei auch Python.
+I am passionate about learning programming languages ​​and want to share my experiences with you and learn from you too. Motto: learning is experience. Everything else is just information.
+At the moment I am studying C # intensively, but also Python.
